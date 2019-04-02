@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Rico
 description: Homepage for Rico
+site.github.repository_url: https://github.com/rico-projects/rico
